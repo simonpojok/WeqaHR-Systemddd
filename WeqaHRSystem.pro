@@ -16,10 +16,43 @@ DEFINES += QT_DEPRECATED_WARNINGS
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    SDK/BS2Context.cpp \
+    SDK/BS_API.cpp \
+    SDK/BS_Errno.cpp \
+    SDK/CommControl.cpp \
+    SDK/ConfigControl.cpp \
+    SDK/DeviceControl.cpp \
+    SDK/DeviceList.cpp \
+    SDK/LogControl.cpp \
+    SDK/UserControl.cpp \
+    SDK/Utils.cpp \
+    SDK/stdafx.cpp \
+    SDK/targetver.cpp \
     main.cpp \
     weqa.cpp
 
 HEADERS += \
+    SDK/BS2Context.h \
+    SDK/BSCommon/BS2Types.h \
+    SDK/BSCommon/BS_Deprecated.h \
+    SDK/BSCommon/config/BS1CardConfig.h \
+    SDK/BSCommon/config/BS2AuthConfig.h \
+    SDK/BSCommon/config/BS2CardConfig.h \
+    SDK/BSCommon/config/BS2ConfigHeader.h \
+    SDK/BSCommon/config/BS2DeviceZoneConfig.h \
+    SDK/BSCommon/config/BS2DeviceZoneMasterConfig.h \
+    SDK/BSCommon/config/BS2DisplayConfig.h \
+    SDK/BS_API.h \
+    SDK/BS_Errno.h \
+    SDK/CommControl.h \
+    SDK/ConfigControl.h \
+    SDK/DeviceControl.h \
+    SDK/DeviceList.h \
+    SDK/LogControl.h \
+    SDK/UserControl.h \
+    SDK/Utils.h \
+    SDK/stdafx.h \
+    SDK/targetver.h \
     weqa.h
 
 FORMS += \
