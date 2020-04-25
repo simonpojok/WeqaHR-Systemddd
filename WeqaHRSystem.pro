@@ -47,9 +47,32 @@ HEADERS += \
     SDK/BSCommon/config/BS2FaceConfig.h \
     SDK/BSCommon/config/BS2FactoryConfig.h \
     SDK/BSCommon/config/BS2FingerprintConfig.h \
+    SDK/BSCommon/config/BS2IPV6Config.h \
     SDK/BSCommon/config/BS2InputConfig.h \
     SDK/BSCommon/config/BS2IpConfig.h \
     SDK/BSCommon/config/BS2IpConfigExt.h \
+    SDK/BSCommon/config/BS2Rs485Config.h \
+    SDK/BSCommon/config/BS2StatusConfig.h \
+    SDK/BSCommon/config/BS2SystemConfig.h \
+    SDK/BSCommon/config/BS2SystemConfigExt.h \
+    SDK/BSCommon/config/BS2TnaExtConfig.h \
+    SDK/BSCommon/config/BS2TriggerActionConfig.h \
+    SDK/BSCommon/config/BS2VoipConfig.h \
+    SDK/BSCommon/config/BS2WiegandConfig.h \
+    SDK/BSCommon/config/BS2WiegandDeviceConfig.h \
+    SDK/BSCommon/config/BS2WiegandMultiConfig.h \
+    SDK/BSCommon/config/BS2WlanConfig.h \
+    SDK/BSCommon/data/BS2AccessGroup.h \
+    SDK/BSCommon/data/BS2AccessLevel.h \
+    SDK/BSCommon/data/BS2Action.h \
+    SDK/BSCommon/data/BS2AntiPassbackZone.h \
+    SDK/BSCommon/data/BS2AuthGroup.h \
+    SDK/BSCommon/data/BS2BlackList.h \
+    SDK/BSCommon/data/BS2CSNCard.h \
+    SDK/BSCommon/data/BS2DaySchedule.h \
+    SDK/BSCommon/data/BS2Device.h \
+    SDK/BSCommon/data/BS2Door.h \
+    SDK/BSCommon/data/BS2Event.h \
     SDK/BS_API.h \
     SDK/BS_Errno.h \
     SDK/CommControl.h \
