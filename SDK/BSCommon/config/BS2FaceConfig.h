@@ -1,0 +1,4 @@
+#ifndef BS2FACECONFIG_H
+#define BS2FACECONFIG_H
+
+#endif // BS2FACECONFIG_H
