@@ -19,7 +19,7 @@
 #define __BS2_LIFT_H__
 
 #include "../BS2Types.h"
-#include "data/BS2Action.h"
+#include "BS2Action.h"
 
 /**
  *  Lift Constants

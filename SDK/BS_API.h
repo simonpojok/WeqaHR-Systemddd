@@ -73,7 +73,7 @@
 #include "BSCommon/data/BS2Operator.h" //[Admin 1000]
 #include "BSCommon/protocol/BS2UdpDiscover.h"
 #include "BSCommon/protocol/BS2SystemInfo.h"
-#include "BS_Deprecated.h"
+#include "BSCommon/BS_Deprecated.h"
 
 #ifdef BS_SDK_V2_DLL
 #define BS_API_EXPORT __declspec(dllimport)

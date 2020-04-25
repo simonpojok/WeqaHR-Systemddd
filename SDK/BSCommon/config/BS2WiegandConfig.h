@@ -19,7 +19,7 @@
 #define __BS2_WIEGAND_CONFIG_H__
 
 #include "../BS2Types.h"
-#include "../../BS_Deprecated.h"
+#include "../BS_Deprecated.h"
 
 /**
  *  Card Config constants

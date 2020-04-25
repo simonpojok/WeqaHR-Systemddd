@@ -17,7 +17,7 @@ enum {
     BS2_EVENT_MAX_IMAGE_CODE_COUNT	= 32,
 };
 
-/**
+/**git
  *	BS2EventConfig
  */
 typedef struct {

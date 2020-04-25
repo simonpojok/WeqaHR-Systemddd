@@ -21,7 +21,7 @@
 #include "../BS2Types.h"
 #include "BS2Door.h"
 #include "BS2Lift.h"
-#include "../../BS_Deprecated.h"
+#include "../BS_Deprecated.h"
 
 enum {
     BS2_INVALID_EVENT_ID = 0,

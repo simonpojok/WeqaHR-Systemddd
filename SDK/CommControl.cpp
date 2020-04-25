@@ -2,7 +2,7 @@
 #include <iostream>
 #include "CommControl.h"
 #include "BS_Errno.h"
-#include "../Common/Utils.h"
+#include "Utils.h"
 
 
 extern void TRACE(const char* fmt, ...);

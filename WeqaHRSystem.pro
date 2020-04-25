@@ -17,8 +17,6 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     SDK/BS2Context.cpp \
-    SDK/BS_API.cpp \
-    SDK/BS_Errno.cpp \
     SDK/CommControl.cpp \
     SDK/ConfigControl.cpp \
     SDK/DeviceControl.cpp \
@@ -26,8 +24,6 @@ SOURCES += \
     SDK/LogControl.cpp \
     SDK/UserControl.cpp \
     SDK/Utils.cpp \
-    SDK/stdafx.cpp \
-    SDK/targetver.cpp \
     main.cpp \
     weqa.cpp
 
