@@ -43,6 +43,7 @@ HEADERS += \
     SDK/BSCommon/config/BS2DeviceZoneMasterConfig.h \
     SDK/BSCommon/config/BS2DisplayConfig.h \
     SDK/BSCommon/config/BS2DstConfig.h \
+    SDK/BSCommon/config/BS2EventConfig.h \
     SDK/BS_API.h \
     SDK/BS_Errno.h \
     SDK/CommControl.h \
