@@ -1,0 +1,4 @@
+#ifndef BS2DSTCONFIG_H
+#define BS2DSTCONFIG_H
+
+#endif // BS2DSTCONFIG_H
