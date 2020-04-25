@@ -47,6 +47,9 @@ HEADERS += \
     SDK/BSCommon/config/BS2FaceConfig.h \
     SDK/BSCommon/config/BS2FactoryConfig.h \
     SDK/BSCommon/config/BS2FingerprintConfig.h \
+    SDK/BSCommon/config/BS2InputConfig.h \
+    SDK/BSCommon/config/BS2IpConfig.h \
+    SDK/BSCommon/config/BS2IpConfigExt.h \
     SDK/BS_API.h \
     SDK/BS_Errno.h \
     SDK/CommControl.h \
