@@ -1,0 +1,4 @@
+#ifndef BS2FLOORLEVEL_H
+#define BS2FLOORLEVEL_H
+
+#endif // BS2FLOORLEVEL_H

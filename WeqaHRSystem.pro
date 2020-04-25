@@ -73,6 +73,26 @@ HEADERS += \
     SDK/BSCommon/data/BS2Device.h \
     SDK/BSCommon/data/BS2Door.h \
     SDK/BSCommon/data/BS2Event.h \
+    SDK/BSCommon/data/BS2EventExt.h \
+    SDK/BSCommon/data/BS2Face.h \
+    SDK/BSCommon/data/BS2Fingerprint.h \
+    SDK/BSCommon/data/BS2FireAlarmZone.h \
+    SDK/BSCommon/data/BS2FloorLevel.h \
+    SDK/BSCommon/data/BS2Holiday.h \
+    SDK/BSCommon/data/BS2InterlockZone.h \
+    SDK/BSCommon/data/BS2IntrusionAlarmZone.h \
+    SDK/BSCommon/data/BS2Lift.h \
+    SDK/BSCommon/data/BS2Operator.h \
+    SDK/BSCommon/data/BS2Resource.h \
+    SDK/BSCommon/data/BS2Rs485Channel.h \
+    SDK/BSCommon/data/BS2Rs485SlaveDeviceSetting.h \
+    SDK/BSCommon/data/BS2Schedule.h \
+    SDK/BSCommon/data/BS2ScheduledLockUnlockZone.h \
+    SDK/BSCommon/data/BS2SmartCard.h \
+    SDK/BSCommon/data/BS2TimedAntiPassbackZone.h \
+    SDK/BSCommon/data/BS2Trigger.h \
+    SDK/BSCommon/data/BS2User.h \
+    SDK/BSCommon/data/BS2Zone.h \
     SDK/BS_API.h \
     SDK/BS_Errno.h \
     SDK/CommControl.h \
