@@ -93,6 +93,9 @@ HEADERS += \
     SDK/BSCommon/data/BS2Trigger.h \
     SDK/BSCommon/data/BS2User.h \
     SDK/BSCommon/data/BS2Zone.h \
+    SDK/BSCommon/protocol/BS2Packet.h \
+    SDK/BSCommon/protocol/BS2SystemInfo.h \
+    SDK/BSCommon/protocol/BS2UdpDiscover.h \
     SDK/BS_API.h \
     SDK/BS_Errno.h \
     SDK/CommControl.h \
