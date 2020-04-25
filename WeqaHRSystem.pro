@@ -45,6 +45,7 @@ HEADERS += \
     SDK/BSCommon/config/BS2DstConfig.h \
     SDK/BSCommon/config/BS2EventConfig.h \
     SDK/BSCommon/config/BS2FaceConfig.h \
+    SDK/BSCommon/config/BS2FactoryConfig.h \
     SDK/BS_API.h \
     SDK/BS_Errno.h \
     SDK/CommControl.h \
